@@ -1,0 +1,98 @@
+﻿<Window x:Class="Desktop_UI.AddEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Desktop_UI"
+        mc:Ignorable="d"
+        Title="{Binding Title,UpdateSourceTrigger=PropertyChanged}" Height="650" Width="900"
+        WindowStyle="None" Background="Transparent" AllowsTransparency="True" ResizeMode="NoResize"
+        MouseDown="Window_MouseDown">
+    <Window.DataContext>
+        <local:AddEditWindowViewModel/>
+    </Window.DataContext>
+
+    <Border Background="White" CornerRadius="20">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel>
+                <Image Height="80" Margin="0 5 0 0">
+                    <Image.Source>
+                        <BitmapImage UriSource="Images/R.png"/>
+
+                    </Image.Source>
+                </Image>
+            </StackPanel>
+
+            <TextBlock Grid.Column="1" Text="Enter Student Details" FontFamily="poppins" Foreground="Black" 
+                           TextAlignment="Left" FontSize="22" 
+                           Margin="5 30 0 0"/>
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Margin="0 50 0 0" Grid.Column="0" Orientation="Vertical">
+                <TextBlock Text="Photo" HorizontalAlignment="Center" FontFamily="poppins" FontWeight="DemiBold" FontSize="22" Margin="5"/>
+                <Image Height="100" HorizontalAlignment="Center" Width="100" VerticalAlignment="Top" Margin="0 20 0 0" Source="{Binding SelectedImage,UpdateSourceTrigger=PropertyChanged}"/>
+                <Button HorizontalAlignment="Center" Style="{StaticResource addButton}" Command="{Binding UploadPhotoCommand}" Margin="0 20 0 30">
+                    <StackPanel Orientation="Horizontal">
+                        <Icon:PackIconMaterial Kind="Upload" VerticalAlignment="Center" Width="11" Height="11" Margin="0 1 8 0"/>
+                        <TextBlock Text="Upload" />
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            
+            <Grid Grid.Column="1">
+                <StackPanel 
+                Width="1080" Height="630" HorizontalAlignment="left"
+                VerticalAlignment="Top" Orientation="Vertical">
+                    <TextBlock FontFamily="Poppins" FontWeight="DemiBold" FontSize="15"  Text="Registration Number" />
+                    <TextBox Text="{Binding Regno, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                    <TextBlock FontFamily="Poppins" FontWeight="DemiBold" FontSize="15"  Text="First Name" />
+                    <TextBox Text="{Binding Firstname, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                    <TextBlock Text="Last Name" FontFamily="Poppins" FontWeight="DemiBold" FontSize="15"/>
+                    <TextBox Text="{Binding Lastname, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}" />
+                    <TextBlock Text="Age" FontFamily="Poppins" FontWeight="DemiBold" FontSize="15" />
+                    <TextBox Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}" />
+                    <TextBlock Text="Date Of Birth" FontFamily="Poppins" FontWeight="DemiBold" FontSize="15"/>
+                    <TextBox Text="{Binding Dateofbirth, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                    <TextBlock Text="GPA" FontFamily="Poppins" FontWeight="DemiBold" FontSize="15"/>
+                    <TextBox Text="{Binding Gpa, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                </StackPanel>
+                    <Button HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource addButton}" Command="{Binding SaveCommand}" Margin="0 0 180 20">
+                        <StackPanel Orientation="Horizontal">
+                            <Icon:PackIconMaterial Kind="ContentSave" VerticalAlignment="Center" Width="11" Height="11" Margin="0 1 8 0"/>
+                            <TextBlock Text="Save" />
+                        </StackPanel>
+                    </Button>
+
+                    <Button VerticalAlignment="Bottom" Margin="0 0 20 20" Style="{StaticResource logoutButton}" Click="Button_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <Icon:PackIconMaterial Kind="Cancel" Style="{StaticResource gridbuttonicon}" VerticalAlignment="Center" Width="11" Height="11" Margin="0 1 8 0"/>
+                            <TextBlock Text="Cancel" />
+                        </StackPanel>
+                    </Button>
+
+
+                </Grid>
+
+
+
+        </Grid>
+
+    </Grid>
+    </Border>
+</Window>

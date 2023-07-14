@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nC/Q8YInzdUiKuZjctc+gUHz/GXRB9Glch8RZO+Ocg5qhNfdginRu31bUY/pQMck7QKLEIFlnsYTm210ZjlC8w==",
+  "success": true,
+  "projectFilePath": "F:\\Campus\\Student Management System\\Student Management System\\Desktop UI\\Desktop UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amand\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\Amand\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

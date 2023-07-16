@@ -85,3 +85,61 @@ F:\Campus\Student Management System\Student Management System\Desktop UI\obj\Deb
 F:\Campus\Student Management System\Student Management System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.CopyComplete
 F:\Campus\Student Management System\Student Management System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.genruntimeconfig.cache
 F:\Campus\Student Management System\Student Management System\Desktop UI\obj\Debug\net7.0-windows\ref\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.exe
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.deps.json
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.runtimeconfig.json
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.pdb
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\AddEditWindow.g.cs
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\App.g.cs
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI_MarkupCompile.cache
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI_MarkupCompile.lref
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\App.baml
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\AddEditWindow.baml
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.g.resources
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.AssemblyInfo.cs
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\refint\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.pdb
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.genruntimeconfig.cache
+D:\Programming\Visual Studio Projects\Projects\Student Management System\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\ref\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.exe
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.deps.json
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.runtimeconfig.json
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\Desktop UI.pdb
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\AddEditWindow.g.cs
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\App.g.cs
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI_MarkupCompile.cache
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI_MarkupCompile.lref
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\App.baml
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\AddEditWindow.baml
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.g.resources
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.AssemblyInfo.cs
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\refint\Desktop UI.dll
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.pdb
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\Desktop UI.genruntimeconfig.cache
+D:\Programming\Visual Studio Projects\Projects\Sem 3 Individual Project\Student-Management-System\Desktop UI\obj\Debug\net7.0-windows\ref\Desktop UI.dll

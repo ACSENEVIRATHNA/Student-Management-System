@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Campus\\Student Management System\\Student Management System\\Desktop UI\\Desktop UI.csproj": {}
+    "D:\\Programming\\Visual Studio Projects\\Projects\\Sem 3 Individual Project\\Student-Management-System\\Desktop UI\\Desktop UI.csproj": {}
   },
   "projects": {
-    "F:\\Campus\\Student Management System\\Student Management System\\Desktop UI\\Desktop UI.csproj": {
+    "D:\\Programming\\Visual Studio Projects\\Projects\\Sem 3 Individual Project\\Student-Management-System\\Desktop UI\\Desktop UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Campus\\Student Management System\\Student Management System\\Desktop UI\\Desktop UI.csproj",
+        "projectUniqueName": "D:\\Programming\\Visual Studio Projects\\Projects\\Sem 3 Individual Project\\Student-Management-System\\Desktop UI\\Desktop UI.csproj",
         "projectName": "Desktop UI",
-        "projectPath": "F:\\Campus\\Student Management System\\Student Management System\\Desktop UI\\Desktop UI.csproj",
+        "projectPath": "D:\\Programming\\Visual Studio Projects\\Projects\\Sem 3 Individual Project\\Student-Management-System\\Desktop UI\\Desktop UI.csproj",
         "packagesPath": "C:\\Users\\Amand\\.nuget\\packages\\",
-        "outputPath": "F:\\Campus\\Student Management System\\Student Management System\\Desktop UI\\obj\\",
+        "outputPath": "D:\\Programming\\Visual Studio Projects\\Projects\\Sem 3 Individual Project\\Student-Management-System\\Desktop UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amand\\AppData\\Roaming\\NuGet\\NuGet.Config",

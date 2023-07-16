@@ -63,8 +63,6 @@
                     <Setter Property="Foreground" Value="#ffffff"/>
                 </Trigger>
             </Style.Triggers>
-
-
         </Style>
 
         <Style x:Key="TextBoxStyle" TargetType="{x:Type TextBox}">

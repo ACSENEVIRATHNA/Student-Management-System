@@ -1,39 +1,34 @@
-# Student Management System
+# Student Management Desktop Application
 
-This project is a desktop GUI application developed using WPF (Windows Presentation Foundation) with C#. It serves as a Student Management System, utilizing the MVVM (Model-View-ViewModel) architecture, allowing users to view existing student details and add new students to the system.
+This project is a desktop application developed using WPF (Windows Presentation Foundation) with C#. It serves as a platform to manage student details including their names, GPA, and photos.
 
 ## Features
 
-- **View Student Details:** Users can view the details of all existing students.
-- **Add New Students:** Users can add new students to the system by providing necessary information.
+- View a list of students along with their details such as name, GPA, and photo.
+- Edit student information, including name, GPA, and photo.
+- Easily navigate through the application's intuitive user interface.
 
-## Prerequisites
+## Screenshots
 
-- .NET Framework
-- Visual Studio (or any other compatible IDE for C# development)
-- Basic understanding of WPF, C#, and MVVM architecture
+![Screenshot 1](/SS/1.png)
 
-## Installation
+![Screenshot 2](/SS/2.png)
 
-1. Clone the repository to your local machine using the following command:
+![Screenshot 3](/SS/3.png)
 
-    ```
-    git clone https://github.com/ACSENEVIRATHNA/Student-Management-System.git
-    ```
+## How to Use
 
-2. Open the project in Visual Studio.
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/ACSENEVIRATHNA/Student-Management-System.git
+   ```
 
-3. Build the solution.
+2. Navigate to the project directory.
+   ```bash
+   cd Desktop UI
+   ```
 
-4. Run the application.
-
-## Usage
-
-1. Launch the application.
-
-2. Navigate through the interface to view existing student details.
-
-3. To add a new student, find the appropriate option/button and follow the prompts to enter the student's information.
+3. Simply run the `Desktop UI.exe` file located in the `bin` directory.
 
 ## Contributing
 
@@ -41,26 +36,19 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 1. Fork the repository.
 
-2. Create a new branch (`git checkout -b feature/yourfeature`).
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/your-feature
+   ```
 
-3. Make your changes.
+3. Commit your changes:
+   ```bash
+   git commit -am 'Add some feature'
+   ```
 
-4. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature
+   ```
 
-5. Push to the branch (`git push origin feature/yourfeature`).
-
-6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Thanks to the WPF, C#, and MVVM community for their valuable resources and tutorials.
-
-## Support
-
-For any inquiries or support regarding the project, feel free to contact [yourname](mailto:youremail@example.com).
-
-**Happy coding!**
+5. Submit a pull request.

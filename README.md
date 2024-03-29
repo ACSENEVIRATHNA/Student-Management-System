@@ -28,7 +28,7 @@ This project is a desktop application developed using WPF (Windows Presentation 
    cd Desktop_UI
    ```
 
-3. Simply run the `Desktop UI.exe` file located in the `bin` directory.
+3. Or simply run the `Desktop UI.exe` file located in the `bin` directory.
 
 ## Contributing
 

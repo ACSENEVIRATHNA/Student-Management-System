@@ -25,7 +25,7 @@ This project is a desktop application developed using WPF (Windows Presentation 
 
 2. Navigate to the project directory.
    ```bash
-   cd Desktop UI
+   cd Desktop_UI
    ```
 
 3. Simply run the `Desktop UI.exe` file located in the `bin` directory.
